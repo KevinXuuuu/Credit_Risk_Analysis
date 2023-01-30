@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-## #Purpose 
+## Purpose 
 Apply machine Learning in credit card risk analysis.
 
 ## Results
